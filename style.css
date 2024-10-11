@@ -1,0 +1,173 @@
+
+
+
+header {
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 12px auto;
+    align-items: center;
+}
+
+
+header > div {
+    
+}
+
+header > div > a {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 48px;
+    color: black;
+}
+
+
+
+
+
+/* 
+body {
+    /* width: 1440px;
+    height: 2991px;
+    top: -1482px;
+    left: -1484px;
+    gap: 0px;
+    /* opacity: 0px; */
+    /* background-color: #F9FAFF;
+    margin: 0;
+    padding: 0;
+
+} */
+
+/* 
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+
+} */
+
+/* header {
+    width: 1440px;
+    height: 56px;
+    padding: 12px 120px 12px 120px;
+    gap: 760px;
+    opacity: 0px;
+
+} */
+/* 
+#head {
+    font-size: 18px;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 32.4px;
+    color: #25282B;
+   */
+/* }
+
+.nav-bar {
+    width: 291px;
+    height: 28px   ;
+    top: 14px;
+    left: 1029px;
+    gap: 48px;
+    opacity: 0px;
+
+} */
+
+
+/* .nav-link {
+    text-decoration: none;
+    color: #25282B;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 28px;
+    padding: 30px;
+    /* position: relative; */
+
+} */
+
+/* #box {
+    position: relative;
+    width: 486px;
+    height: 408px;
+    top: 110px;
+    /* background-color: aqua; */
+    left: 120px;
+    gap: 12px;
+} */
+/* 
+#role {
+    color: #FDC435;
+    font-family: "Nunito", sans-serif;
+    font-weight: 700px;
+    font-size: 20px;
+    list-style: 27.28px;
+}
+
+h1 { 
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 76.8px; */
+
+}
+/* 
+h2 {
+    font-family: "Nunito", sans-serif;
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: left;
+    text-shadow: 0px 4px 4px  #00000040;
+    color: #828282;
+    text-emphasis-color: #828282;
+ 
+
+} */
+
+
+/* .button {
+    border-radius: 8px;
+    border: 0;
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 27px;
+    width: 115px;
+    height: 43px;
+    padding: 8px 24px;
+    font-family: "Roboto", sans-serif;
+    display: inline-block; */
+}
+/* 
+#btn-project {
+    background-color: #FDC435;
+}
+
+#btn-linkedin {
+    background-color: #F9FAF ;
+    border: 2px solid #25282B;
+    margin-left: 12px;
+} */
+    
+/* #picture {
+    width: 720px;
+    height: 629px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    top: 0px;
+    left: 1275px;   
+    margin: 0px; 
+    margin-right: 0px;
+    display: block;
+    padding: 0px;
+} */
+
+
